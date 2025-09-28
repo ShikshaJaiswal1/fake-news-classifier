@@ -22,10 +22,20 @@ This project compares the performance of **Logistic Regression, Decision Tree, R
 ## 📂 Project Structure
 .
 ├── True.csv # Dataset (true news samples)
+
+
 ├── Fake.csv # Dataset (fake news samples)
+
+
 ├── fakenews.ipynb # Jupyter Notebook with code and results
+
+
 ├── requirements.txt # Python dependencies
+
+
 └── README.md # Project documentation
+
+
 
 
 
